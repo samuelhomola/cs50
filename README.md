@@ -1,0 +1,1 @@
+A collection of projects completed during Harvard's CS50 course.
